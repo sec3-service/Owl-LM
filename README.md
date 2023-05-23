@@ -2,7 +2,7 @@
 
 This repository contains resources for working with training LLM on blockchain transaction data. Here we share the finetuned model and tokenizer with some examples of how to use them. We will share more resources in the future.
 
-The finetuned model and tokenizer are hosted on Hugging Face at https://huggingface.co/hubert233/LLM_for_Blockchain.
+The finetuned model and tokenizer are hosted at the folder LLM_for_Blockchain.
 
 ## Contents
 `README.md`: This file.
@@ -14,6 +14,8 @@ The finetuned model and tokenizer are hosted on Hugging Face at https://huggingf
 `example.ipynb`: A Jupyter notebook that provides example usage of the model.
 
 `requirements.txt`: Lists the Python dependencies required for using the code in this repository.
+
+`LLM_for_Blockchain`: folder containing the LLM model.
 
 ## Installation
 Clone this repository:
