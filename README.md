@@ -20,11 +20,11 @@ The finetuned model and tokenizer are hosted at the folder LLM_for_Blockchain.
 ## Installation
 Clone this repository:
 
-``git clone https://github.com/username/LLM-for-Blockchain.git``
+``git clone https://github.com/sec3-service/Owl-LM.git``
 
 Navigate to the cloned repository:
 
-``cd LLM-for-Blockchain``
+``cd Owl-LM``
 
 Install the required Python dependencies:
 
